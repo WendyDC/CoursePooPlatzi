@@ -17,7 +17,7 @@ import util.AmazonUtil;
  * <p>
  * Existen algunas reglas como todos los elementos pueden ser visualizados o leídos a excepción de las Magazines, estas sólo pueden ser vistas a modo de exposición sin ser leídas.
  * 
- * @author Cesar Ramírez
+ * @author Wendy Carrascalig
  * @version 1.1
  * @since 2018
  **/
